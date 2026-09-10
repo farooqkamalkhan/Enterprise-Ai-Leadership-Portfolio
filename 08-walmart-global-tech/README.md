@@ -6,6 +6,9 @@ This portfolio summarizes selected leadership experience across a **$450M+ Finan
 
 > **Portfolio note:** These case studies are presented at a leadership and outcome level and intentionally exclude confidential architecture, source code, proprietary data, and employer-sensitive information.
 
+### [📌 Open the Flagship Project Index →](PROJECTS.md)
+A recruiter-friendly view of selected programs, domains, leadership stories, and measurable outcomes.
+
 ---
 
 ## Portfolio Map
@@ -151,4 +154,4 @@ Modernized asset lifecycle visibility across acquisition, depreciation, maintena
 
 The common thread was not any single technology. It was building the operating mechanisms required to transform complex enterprise environments while maintaining executive alignment, financial discipline, governance, and measurable business value.
 
-[← Back to Portfolio Home](../README.md)
+[📌 Flagship Project Index](PROJECTS.md) • [← Back to Portfolio Home](../README.md)
