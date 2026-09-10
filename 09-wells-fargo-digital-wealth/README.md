@@ -6,6 +6,9 @@ This case study highlights leadership experience at the intersection of **digita
 
 > **Portfolio note:** Presented at a generalized leadership and outcome level. No confidential architecture, customer data, or proprietary implementation detail is included.
 
+### [📌 Executive Case Study at a Glance →](EXECUTIVE-SUMMARY.md)
+A concise recruiter view of the business need, enterprise complexity, leadership role, capability, and strategic outcome.
+
 ---
 
 ## Executive Challenge
@@ -52,4 +55,4 @@ The program established a digital advisory presence during the industry's shift 
 
 Digital transformation inside a regulated enterprise requires more than a compelling customer experience. Success depends on connecting **product strategy, technology integration, operating-model alignment, risk controls, and adoption across organizational boundaries**.
 
-[← Back to Portfolio Home](../README.md)
+[📌 Executive Summary](EXECUTIVE-SUMMARY.md) • [← Back to Portfolio Home](../README.md)
