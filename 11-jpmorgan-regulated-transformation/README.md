@@ -6,6 +6,9 @@ This portfolio captures selected transformation leadership during a period of in
 
 > **Portfolio note:** These case studies are generalized and intentionally exclude confidential architecture, customer information, proprietary controls, and sensitive implementation details.
 
+### [📌 Open the Flagship Project Index →](PROJECTS.md)
+A recruiter-friendly view connecting six major programs to the executive disciplines now relevant to Responsible AI and enterprise transformation.
+
 ---
 
 ## Transformation Portfolio
@@ -89,4 +92,4 @@ Modern AI introduces new technology, but many executive challenges are familiar:
 
 This regulated-transformation foundation is a core part of how I approach Responsible AI, human-in-the-loop design, production readiness, and enterprise AI governance today.
 
-[← Back to Portfolio Home](../README.md)
+[📌 Flagship Project Index](PROJECTS.md) • [← Back to Portfolio Home](../README.md)
