@@ -6,6 +6,9 @@ This case study represents an early operating foundation in **high-volume custom
 
 > **Portfolio note:** Presented as generalized professional experience and intentionally excludes confidential operational data, customer information, or proprietary processes.
 
+### [📌 Executive Case Study at a Glance →](EXECUTIVE-SUMMARY.md)
+A concise recruiter view of the operating challenge, transformation model, leadership focus, and connection to modern AI-enabled service operations.
+
 ---
 
 ## Executive Challenge
@@ -50,4 +53,4 @@ This experience creates a useful bridge between **lived contact-center operation
 
 AI should not be dropped onto a workflow from above. The strongest transformations understand how work actually happens at the frontline, redesign the process, define the right human/technology boundary, and measure whether the operating outcome improved.
 
-[← Back to Portfolio Home](../README.md)
+[📌 Executive Summary](EXECUTIVE-SUMMARY.md) • [← Back to Portfolio Home](../README.md)
