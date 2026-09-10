@@ -31,6 +31,8 @@ The result can be **many AI activities without an enterprise AI capability**.
 
 The model connects eight enterprise capabilities:
 
+![Enterprise AI Transformation Framework](../enterprise-ai-transformation-framework.png)
+
 ```text
 ┌──────────────────────────────┐
 │      BUSINESS STRATEGY       │
