@@ -6,6 +6,9 @@ This case study highlights transformation leadership across **investor reporting
 
 > **Portfolio note:** Presented at a generalized leadership and outcome level without confidential implementation detail or proprietary data.
 
+### [📌 Executive Case Study at a Glance →](EXECUTIVE-SUMMARY.md)
+A concise recruiter view of the modernization problem, ecosystem complexity, leadership role, capability, and strategic outcome.
+
 ---
 
 ## Executive Challenge
@@ -51,4 +54,4 @@ Modernized a critical mortgage-industry process by replacing manual reporting wi
 
 Large-scale modernization succeeds when technology migration, external ecosystem change, testing rigor, operational readiness, and governance are treated as **one transformation problem rather than separate workstreams**.
 
-[← Back to Portfolio Home](../README.md)
+[📌 Executive Summary](EXECUTIVE-SUMMARY.md) • [← Back to Portfolio Home](../README.md)
