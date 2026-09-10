@@ -5,6 +5,8 @@
 
 **Enterprise AI Strategy → Governance → Agentic AI → Adoption → Value Realization → Enterprise Transformation**
 
+![Farooq Kamal Enterprise AI Leadership Portfolio](00-home-executive-portfolio.png)
+
 I am an enterprise AI and digital transformation executive focused on turning emerging technology into **governed, scalable business capability with measurable value**.
 
 My experience spans healthcare technology/PBM, global retail technology, and regulated financial services. I currently lead enterprise AI enablement and transformation at **Judi Health / Capital Rx**, and previously led enterprise technology portfolio governance and AI/data transformation at **Walmart Global Tech**.
@@ -34,66 +36,32 @@ My experience spans healthcare technology/PBM, global retail technology, and reg
 
 `Strategy → Intake → Prioritize → Govern → Deliver → Adopt → Measure → Executive Portfolio`
 
----
-
 ### [02 — 🛡️ AI Governance & Responsible AI](02-ai-governance-responsible-ai/README.md)
 A practical governance architecture built around proportional risk, clear decision rights, early guidance, human accountability, production readiness, and executive escalation.
-
----
 
 ### [03 — 🤖 Agentic AI & Intelligent Workflows](03-agentic-ai-intelligent-workflows/README.md)
 Enterprise patterns connecting agents with trusted knowledge, reasoning, tools, workflows, business systems, human oversight, and measurable outcomes—including intelligent intake.
 
----
-
 ### [04 — 🎯 AI Use-Case Prioritization](04-ai-use-case-prioritization/README.md)
 A decision model for determining what AI opportunities the enterprise should **accelerate, pilot, prepare, defer, or stop**.
-
-**Business Value × Feasibility × Data Readiness × Risk × Scalability × Adoption Readiness**
-
----
 
 ### [05 — 💰 AI Value Realization](05-ai-value-realization/README.md)
 A framework connecting AI investment to measurable outcomes through business ownership, Finance validation, executive sponsorship, KPI measurement, and planned-versus-realized value reporting.
 
----
-
 ### [06 — 🚀 Enterprise AI Adoption](06-enterprise-ai-adoption/README.md)
-A change architecture for moving employees from awareness and access to repeat use, workflow integration, measurable impact, and advocacy through literacy, role-based enablement, champions, and communities of practice.
-
----
+A change architecture for moving employees from awareness and access to repeat use, workflow integration, measurable impact, and advocacy.
 
 ### [07 — ⚡ Enterprise AI at Scale](07-enterprise-ai-at-scale/README.md)
 Selected leadership case studies spanning enterprise GenAI, conversational AI, ML decision intelligence, and AI-ready data foundations.
 
-**Selected outcomes:** 20,000+ users reached, 70%+ active adoption, 18–22-point forecasting improvement, and material cycle-time/productivity gains.
-
----
-
 ### [08 — 🏢 Enterprise Transformation](08-enterprise-transformation/README.md)
-Leadership case studies across a **$450M+ technology portfolio**, Corporate Functions, data and analytics, vendor strategy, and regulated transformation across Walmart, Wells Fargo, Fannie Mae, JPMorgan Chase, and Bank of America.
+Leadership experience across a **$450M+ technology portfolio**, Corporate Functions, data and analytics, vendor strategy, and regulated transformation.
 
 ---
 
 ## How I Lead Transformation
 
-```text
-BUSINESS STRATEGY
-       ↓
-PORTFOLIO & INVESTMENT PRIORITIES
-       ↓
-OPERATING MODEL + DECISION RIGHTS
-       ↓
-DATA + TECHNOLOGY + AI
-       ↓
-GOVERNED DELIVERY
-       ↓
-ADOPTION + WORKFLOW CHANGE
-       ↓
-MEASURABLE VALUE
-       ↓
-EXECUTIVE PORTFOLIO DECISIONS
-```
+**Business Strategy → Portfolio & Investment Priorities → Operating Model + Decision Rights → Data + Technology + AI → Governed Delivery → Adoption + Workflow Change → Measurable Value → Executive Portfolio Decisions**
 
 My work sits at the intersection of **business strategy, AI, technology, data, governance, portfolio leadership, adoption, and value realization**. The recurring objective is to create enough structure to scale—without creating bureaucracy that slows the enterprise down.
 
